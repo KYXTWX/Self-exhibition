@@ -15,9 +15,8 @@
 5. 会一点flask，成功做出老师布置的小项目
 
 ### 以往作品展示：
-1. [个人简历](http://kyxtwx.gitee.io/resume/)
-2. [网页设计实操项目](http://kyxtwx.gitee.io/web_html/)
-3. [个人网站](http://kyxtwx.gitee.io/)
+1. [网页设计实操项目](http://kyxtwx.gitee.io/web_html/)
+2. [个人网站](http://kyxtwx.gitee.io/)
 
 ### 搭档要求：
 1. 认真对待自己的期末项目
